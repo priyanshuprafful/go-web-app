@@ -1,4 +1,4 @@
-FROM    golang:1.22 as base
+FROM    golang:1.22.5 as base
 #we using alias as base
 
 WORKDIR /app
