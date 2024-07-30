@@ -8,7 +8,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-    - host: 54.82.249.220
+    - host: go-web-app.saraldevops.site
       http:
         paths:
           - path: /
